@@ -27,6 +27,12 @@ I build fast, responsive, and modern web applications using the latest web techn
 
 ---
 
+---
+
+![](https://komarev.com/ghpvc/?username=Jkislam&style=for-the-badge&color=blue)
+
+---
+
 # 💻 Tech Stack
 
 ### Frontend
@@ -91,7 +97,6 @@ I build fast, responsive, and modern web applications using the latest web techn
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Jkislam&style=for-the-badge&color=blue)
 
 ### ⭐ Thanks for visiting my profile!
 If you like my work, don't forget to ⭐ star my repositories.
