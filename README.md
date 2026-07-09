@@ -57,12 +57,11 @@ I build fast, responsive, and modern web applications using the latest web techn
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Jkislam&theme=github_dark&show_icons=true&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=Jkislam&theme=github_dark&show_icons=true&hide_border=true&v=2)
 
 ![](https://streak-stats.demolab.com?user=Jkislam&theme=github-dark-blue&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jkislam&layout=compact&theme=github_dark&hide_border=true)
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jkislam&layout=compact&theme=github_dark&hide_border=true&v=2)
 ---
 
 ## 🏆 GitHub Achievements
