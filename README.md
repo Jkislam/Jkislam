@@ -57,11 +57,13 @@ I build fast, responsive, and modern web applications using the latest web techn
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Jkislam&theme=github_dark&show_icons=true&hide_border=true&cache_seconds=3600)
+<!-- সঠিক URL ব্যবহার করুন -->
+![](https://github-readme-stats.vercel.app/api?username=Jkislam&theme=github_dark&show_icons=true&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=Jkislam&theme=github-dark-blue&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jkislam&theme=github-dark-blue&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jkislam&layout=compact&theme=github_dark&hide_border=true&v=2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkislam&layout=compact&theme=github_dark&hide_border=true)
+
 ---
 
 ## 🏆 GitHub Achievements
@@ -73,11 +75,9 @@ I build fast, responsive, and modern web applications using the latest web techn
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy-sabbir16.vercel.app/?username=Jkislam&theme=algolia&column=4&row=2&margin-w=20&margin-h=20&no-frame=true&no-bg=true"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jkislam&theme=algolia&column=4&row=2&margin-w=20&margin-h=20&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
+
 ---
 
 ## 📊 Contribution Graph
@@ -97,7 +97,6 @@ I build fast, responsive, and modern web applications using the latest web techn
 ![](https://github-contributor-stats.vercel.app/api?username=Jkislam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 
 ### ⭐ Thanks for visiting my profile!
 If you like my work, don't forget to ⭐ star my repositories.
