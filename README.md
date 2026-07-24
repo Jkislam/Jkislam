@@ -67,7 +67,12 @@ I build fast, responsive, and modern web applications using the latest web techn
 
 ## 🏆 GitHub Achievements
 
-[![GitHub Achievements](https://img.shields.io/badge/View-My_GitHub_Achievements-blue?style=for-the-badge&logo=github)](https://github.com/Jkislam?tab=achievements)
+<p align="center">
+  <img
+    src="https://github-profile-trophy-sabbir16.vercel.app/?username=Jkislam&theme=algolia&column=4&row=2&margin-w=20&margin-h=20&no-frame=true&no-bg=true&format=svg"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ---
 
