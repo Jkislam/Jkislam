@@ -78,7 +78,7 @@ I build fast, responsive, and modern web applications using the latest web techn
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jkislam&theme=algolia&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://your-project.vercel.app/?username=Jkislam&theme=algolia)](https://github.com/Jkislam)
 
 ---
 
