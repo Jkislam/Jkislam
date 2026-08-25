@@ -67,7 +67,9 @@ I build fast, responsive, and modern web applications using the latest web techn
 
 ## 🏆 GitHub Achievements
 
-
+<p align="center">
+  <img src="https://github-profile-trophy-sabbir16.vercel.app/?username=Jkislam&theme=algolia&column=4&row=2&margin-w=20&margin-h=20&no-frame=true&no-bg=true&format=svg" alt="GitHub Achievements" />
+</p>
 ---
 
 ## 🏆 GitHub Trophies
