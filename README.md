@@ -128,11 +128,15 @@ An AI-powered educational platform designed to help students with learning, ques
 
 ---
 
-# 📊 Contribution Graph
+## 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jkislam&theme=github-dark&hide_border=true&area=true" width="100%" alt="Sabbir Islam GitHub Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jkislam/Jkislam/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jkislam/Jkislam/output/github-snake.svg">
+  <img alt="Sabbir Islam GitHub Contribution Graph" src="https://raw.githubusercontent.com/Jkislam/Jkislam/output/github-snake.svg" width="100%">
+</picture>
 
 </div>
 
